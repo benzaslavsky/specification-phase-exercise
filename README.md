@@ -4,11 +4,26 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- [Yihyun Nam](https://github.com/iindes)
+- [Kathy Lin](https://github.com/lkykathy)
+- [Ben Zaslavsky](https://github.com/benzaslavsky)
+- [Sara Herschmann](https://github.com/saramhersch)
+- [Anthony Wang](https://github.com/aw4580)
 
 ## Review of the Current Application
 
-See instructions. Delete this line and replace with your team's findings from using the live app at https://theslidemachine.com — at least 10 specific observations, each labeled as a strength, a weakness, or a gap, and drawn from more than one team member's use of the app.
+**Strengths**
+
+- I introduced a personal story during the lecture, and slide machine made a slide about it even though it was not part of the original lecture outline.
+- The exit-ticket quiz reflected what was actually said during the lecture, including a more niche topic
+- The deck followed the lecture well
+- The platform is really well organized in my opinion. Every button is in it's intuitive spot. The UX is nailed. Though this was my first time using the platform, I didn't need to click through a bunch of different things to find what I needed
+
+**Weaknesses**
+
+- I speak really fast, so it dropped some content / could not pick it up and transcribe it
+- Because again I speak fast, it didn't make slide breaks in all the correct places
+- The Quiz feels a bit too AId, like I asked ChatGPT just to give me a few questions on the slide deck...
 
 ## Prior Art & Originality
 
