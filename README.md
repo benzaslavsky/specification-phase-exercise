@@ -18,12 +18,16 @@ A little exercise to get started with the specification phase of the software de
 - The exit-ticket quiz reflected what was actually said during the lecture, including a more niche topic
 - The deck followed the lecture well
 - The platform is really well organized in my opinion. Every button is in it's intuitive spot. The UX is nailed. Though this was my first time using the platform, I didn't need to click through a bunch of different things to find what I needed
+-  The system accurately identified important concepts that I emphasized during my lecture. For example, when I emphasized that Python lists begin at index zero, it created a slide specifically about list indexing.
+- The generated slides correctly separated major topic transitions and accurately summarized the main concepts of the lecture.
 
 **Weaknesses**
 
 - I speak really fast, so it dropped some content / could not pick it up and transcribe it
 - Because again I speak fast, it didn't make slide breaks in all the correct places
 - The Quiz feels a bit too AId, like I asked ChatGPT just to give me a few questions on the slide deck...
+- Some useful examples and context from my spoken lecture were left out of the generated slides, so the deck captured the main ideas but not all of the useful detail from the lecture.
+- Some of the exit-ticket quiz questions were repetitive and tested essentially the same concept. The quiz also focused mostly on basic recall rather than applying the concepts from the lecture.
 
 ## Prior Art & Originality
 
