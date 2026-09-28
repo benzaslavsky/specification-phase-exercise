@@ -98,14 +98,13 @@ Our proposal focuses on improving the post-lecture experience. Instructors can r
 
 **User story:** As a student, I want to describe a concept in my own words and be directed to the relevant slide so that I can find information without remembering the exact wording used in the deck.
 
-![Content-aware slide search activity diagram](images/activity-diagrams/Content-Aware Slide Search.png)
+![Content-aware slide search activity diagram](images/activity-diagrams/content-aware-slide-search.png)
 
 ### Student: Section-Based Navigation
 
 **User story:** As a student, I want to view a table of contents organized by lecture section and jump directly to a selected section so that I can navigate a long slide deck without repeatedly scrolling through it.
 
-![Content-aware slide search activity diagram](images/activity-diagrams/Section-Based Navigation.png)
-
+![Section-based navigation activity diagram](images/activity-diagrams/section-based-navigation.png)
 
 ## Wireframes
 
