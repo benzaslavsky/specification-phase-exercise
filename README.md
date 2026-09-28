@@ -57,6 +57,8 @@ Several ideas related to instructor editing already exist in the project. The cu
 
 Our original contributions focus primarily on the student experience after a lecture. Although Slide Machine currently supports searching public decks and templates, we found no existing or planned feature for concept-aware search within an individual lecture deck. We propose allowing students to search both slide content and the lecture transcript using concepts or descriptions rather than exact wording and then jump directly to the slide most relevant to what they are looking for. We also propose section-based navigation that organizes a long generated lecture deck into meaningful sections and provides students with a table of contents for quickly moving between them. These features extend Slide Machine from simply providing students with a shared deck after class to making that deck easier to navigate, revisit, and use as study material.
 
+We also propose a student-facing cheat-sheet workflow: students select lecture slides, include their associated transcript content, choose a page limit, preview or regenerate the concise study sheet, and download or print it. Slide Machine already supports exporting complete decks, but we found no existing or planned feature in the reviewed Software Design Document, roadmap, open issues, or pull requests for creating a condensed study document from student-selected slides. The proposed contribution is the selection-and-condensation workflow, including length control and review.
+
 Our proposed instructor slide-selection workflow builds on Slide Machine's existing refinement capabilities rather than replacing them. It provides a more targeted interface for applying edits to a chosen set of slides, while the underlying idea of AI-assisted refinement is existing or planned work.
 
 ## Stakeholders
@@ -206,7 +208,7 @@ The two student interviews revealed several recurring needs:
 
 ## Product Vision Statement
 
-The Slide Machine will make generated lecture decks easier to revisit and study by giving students section-based navigation and concept-aware search across both slide content and the lecture transcript, while extending existing instructor refinement tools with more targeted slide-selection workflows.
+The Slide Machine will help students revisit and study live-generated lectures through section-based navigation, concept-aware search across slide and transcript content, and customizable cheat sheets from selected material, while helping instructors make controlled AI edits to selected slides.
 
 ## User Requirements
 
@@ -259,8 +261,7 @@ Our proposal focuses on improving the post-lecture experience. Instructors can m
 - As a student, I want to regenerate the cheat sheet with a different page limit so that I can make it more concise or more detailed depending on my study needs.
 - As a student, I want to download or print the generated cheat sheet so that I can use it while studying offline or preparing for an exam.
 - As a student, I want the system to keep my selected slides unchanged when generating a cheat sheet so that creating study material does not modify the original lecture deck.
-- As a student, I want to receive a clear message if the cheat sheet cannot be generated so that I know my original lecture material has not been changed and I can try again.
-
+As a student, I want to receive a clear message if the cheat sheet cannot be generated so that I know my original lecture material has not been changed and I can try again.
 
 ## Activity Diagrams
 
