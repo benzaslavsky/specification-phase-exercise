@@ -68,7 +68,6 @@ Our proposed instructor slide-selection workflow builds on Slide Machine's exist
 #### Instructor Information
 
 - **Name:** 
-- **Email:** 
 - **User Type:** Instructor
 
 #### Goals / Needs
@@ -116,7 +115,6 @@ Our proposed instructor slide-selection workflow builds on Slide Machine's exist
 #### Student Information
 
 - **Name:** Ray
-- **Email:** sl5925@columbia.edu
 - **User Type:** Student
 
 #### Goals / Needs
@@ -155,7 +153,6 @@ Our proposed instructor slide-selection workflow builds on Slide Machine's exist
 #### Student Information
 
 - **Name:** 
-- **Email:** 
 - **User Type:** Student
 
 #### Goals / Needs
