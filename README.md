@@ -94,6 +94,18 @@ Our proposal focuses on improving the post-lecture experience. Instructors can r
 
 ## Activity Diagrams
 
+### Instructor: Single-Slide Editing
+
+**User story:** As an instructor, I want to select an individual slide and give the AI a specific editing instruction while allowing it to use the full lecture transcript as context so that the revised slide remains consistent with the lecture.
+
+![Single-slide editing activity diagram](images/activity-diagrams/singleslideedit.png)
+
+### Instructor: Multi-Slide Editing
+
+**User story:** As an instructor, I want to select multiple slides and apply one AI editing instruction to all of them while allowing the system to use the full lecture transcript as context so that related slides are revised consistently.
+
+![Multi-slide editing activity diagram](images/activity-diagrams/multislideedit.png)
+
 ### Student: Content-Aware Slide Search
 
 **User story:** As a student, I want to describe a concept in my own words and be directed to the relevant slide so that I can find information without remembering the exact wording used in the deck.
