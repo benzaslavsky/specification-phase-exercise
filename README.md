@@ -69,7 +69,7 @@ Our proposed instructor slide-selection workflow builds on Slide Machine's exist
 
 #### Instructor Information
 
-- **Name:** 
+- **Name:** Joe Versoza
 - **User Type:** Instructor
 
 #### Goals / Needs
