@@ -212,30 +212,19 @@ The Slide Machine will help students revisit and study live-generated lectures t
 
 ## User Requirements
 
-Our proposal focuses on improving the post-lecture experience. Instructors can make targeted, transcript-aware AI edits to selected slides or groups of slides, while students can more easily navigate, search, and review the resulting decks.
+Our proposal focuses on Content Aware Search and a Study Sheet Creator.
 
 ### Instructor
-
-- As an instructor, I want to select an individual slide and give the AI a specific editing instruction so that I can improve one slide without changing the rest of my presentation.
-- As an instructor, I want the AI to use the full lecture transcript as context when editing a selected slide so that the revised content remains consistent with what I actually said during the lecture.
-- As an instructor, I want to select multiple slides and apply one editing instruction to all of them so that I can efficiently make the same type of change across related slides.
-- As an instructor, I want the AI to use the full lecture transcript as context when editing multiple selected slides so that the slides remain consistent with the overall lecture.
-- As an instructor, I want to select non-adjacent slides so that I can edit related slides even when they appear in different parts of the presentation.
-- As an instructor, I want my selected slides to be clearly highlighted so that I can easily tell which slides will be affected by my instruction.
-- As an instructor, I want to add or remove slides from my selection before submitting an instruction so that I can correct my selection without starting over.
-- As an instructor, I want to see how many slides I have selected so that I can confirm the scope of an edit before submitting it.
-- As an instructor, I want to describe the change I want in my own words so that I am not limited to a predefined set of editing options.
-- As an instructor, I want unselected slides to remain unchanged when I submit an editing request so that my edits only affect the content I intentionally selected.
-- As an instructor, I want to preview the AI's proposed changes to each selected slide before applying them so that I can verify that the instruction was interpreted correctly.
-- As an instructor, I want to compare the original and proposed versions of a selected slide so that I can understand exactly what the AI changed.
-- As an instructor, I want to accept or reject the proposed change for each selected slide individually so that I can keep useful edits without accepting every suggested change.
-- As an instructor, I want to accept or reject all proposed changes at once so that I can quickly handle a batch of edits when all of the results are acceptable or unacceptable.
-- As an instructor, I want to revise my instruction and try again while keeping the same slides selected so that I can improve an unsatisfactory result without repeating the selection process.
-- As an instructor, I want to cancel an AI editing request before applying its proposed changes so that I can change my mind without altering my presentation.
-- As an instructor, I want the system to identify which selected slides could not be edited if part of a multi-slide request fails so that I know which slides still need attention.
-- As an instructor, I want successfully generated edits to remain available even if another selected slide fails so that one failure does not require me to repeat the entire request.
-- As an instructor, I want my existing slides to remain unchanged if an AI editing request fails so that a failed request cannot damage my presentation.
-- As an instructor, I want to undo an applied group of AI edits so that I can restore the previous version of the selected slides if I later decide the changes were not helpful.
+- As an instructor, I want to search across my lecture slides using normal language so that I can quickly find where I discussed a topic.
+- As an instructor, I want search results to consider the lecture transcript as well as slide text so that I can find information I explained verbally.
+- As an instructor, I want search results to show which slide and lecture the information came from so that I can quickly locate the original material.
+- As an instructor, I want to select lecture content to include in a study sheet so that I can control what students should review.
+- As an instructor, I want to generate a study sheet from selected lectures so that I can provide students with a concise review resource.
+- As an instructor, I want to edit an AI-generated study sheet so that I can correct or improve it before sharing it.
+- As an instructor, I want to regenerate a study sheet with different instructions so that I can adjust its level of detail or emphasis.
+- As an instructor, I want to preview a study sheet before publishing it so that I can make sure it accurately represents the course material.
+- As an instructor, I want to share a study sheet with students so that they can use it when preparing for assessments.
+- As an instructor, I want to delete an outdated study sheet so that students do not accidentally study from obsolete material.
 
 
 ### Student
