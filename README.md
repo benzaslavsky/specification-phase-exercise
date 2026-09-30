@@ -109,6 +109,43 @@ Our proposed instructor slide-selection workflow builds on Slide Machine's exist
 - The instructor wanted greater visibility into what the AI was doing rather than having the system make changes without clearly communicating its actions.
 - The instructor's request for more control and guardrails supports a workflow in which instructors can deliberately select slides, specify the changes they want, and review AI-generated modifications before applying them.
 
+### Instructor 2
+
+#### Instructor Information
+
+- **Name:** Rosie
+- **User Type:** Instructor
+
+#### Goals / Needs
+
+- The instructor wants the generated slides to preserve the natural structure and progression of the lecture.
+- The instructor wants the system to better recognize relationships between ideas and automatically organize appropriate content into bullet points, categories, comparisons, or other clear structures without requiring explicit verbal cues.
+- The instructor would like the system to generate relevant visuals more frequently when the lecture content would benefit from an image.
+- The instructor wants to use the system as a lecture preparation tool, particularly for generating and organizing talking points before class.
+- The instructor sees potential for students to use the system as a study tool by explaining concepts aloud in their own words and reviewing the resulting slides to evaluate their understanding and organization of the material.
+
+#### Problems / Frustrations
+
+- Speech recognition becomes less accurate with non-English words, such as Spanish terms, and with discipline-specific terminology, although the system can sometimes infer the intended terms from context.
+- The system does not always recognize when spoken content would be better represented as bullet points, categories, or other structured relationships unless the speaker explicitly signals that structure.
+- Although the generated slides are useful during lecture preparation, they still require additional editing before they are ready to be used directly as a final classroom presentation.
+- The system does not generate relevant images as often as the instructor would like, even when the topic could benefit from a visual.
+
+#### Observations
+
+- The instructor found the logic and transitions between slides very clear. The system effectively used the speaker's structure and pauses to determine when a new slide should begin, resulting in a smooth and natural progression.
+- Speech recognition was generally accurate, and the system demonstrated some ability to use context to infer unfamiliar terminology.
+- Automatically generated images were generally appropriate and relevant to the content being discussed.
+- The instructor found the system especially useful for developing talking points and organizing material while preparing a lecture.
+- The instructor viewed the concept as novel and creative, particularly as an application of AI and computer science to support lecture preparation and student learning.
+
+### Common Instructor Needs Identified Across Interviews
+
+- **Greater instructor control over generated content:** Both instructors indicated that AI-generated slides should remain easy for the instructor to review, refine, and adjust rather than being treated as final output automatically.
+- **Higher-quality, more presentation-ready slides:** Both interviews suggest that the generated deck still needs improvement before it can reliably serve as a final classroom presentation. Instructors need slides that are more polished, clearly structured, and appropriate for the content being taught.
+- **A more efficient post-generation refinement process:** Both instructors expressed a need to improve generated slides after creation. The system should make it easy to revise slide content and organization without requiring instructors to rebuild the presentation manually.
+- **Better alignment between instructor intent and AI-generated output:** Both instructors want the system to interpret the lecture more intelligently while still giving the instructor control over how that interpretation appears in the final deck.
+
 
 ## Student Stakeholder Interviews
 
