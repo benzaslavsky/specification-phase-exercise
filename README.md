@@ -362,8 +362,9 @@ The Content Viewer lets users navigate the slides more easily.
 
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+(https://theslidemachine.com/d/untitled-276b3af9)
 
 ## Exit Ticket
 
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+No corrections were necessary
+(https://docs.google.com/forms/d/e/1FAIpQLSeNY53ApFgVr2KQrxaoLsf_qiSsKnGc6aQtopWK4kOOAWk7tA/viewform) 
