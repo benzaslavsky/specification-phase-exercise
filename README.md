@@ -321,8 +321,7 @@ The Content Viewer lets users navigate the slides more easily.
 ![Content Viewer Wireframe](images/contentviewerwireframe.png)
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+(https://www.figma.com/proto/NGyL9OpThgugor9MJ6y0at/SWE-Project-1?node-id=0-1&t=HlECNSAtRvF5NfY8-1)
 
 ## Stakeholder Demo
 
