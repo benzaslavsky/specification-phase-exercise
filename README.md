@@ -154,7 +154,7 @@ Our proposed instructor slide-selection workflow builds on Slide Machine's exist
 
 #### Student Information
 
-- **Name:** 
+- **Name:** Joshua
 - **User Type:** Student
 
 #### Goals / Needs
