@@ -298,9 +298,27 @@ As a student, I want to receive a clear message if the cheat sheet cannot be gen
 
 ![Section-based navigation activity diagram](images/activity-diagrams/section-based-navigation.png)
 
-## Wireframes
+## Wireframe Diagrams
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+### AI Editor
+The AI Editor allows instructors to select one or more slides and provide a custom prompt describing how they want those slides changed.
+
+![AI Editor Wireframe](images/aieditorwireframe.png)
+
+### Advanced Search
+The search feature allows users to find relevant slides or lecture content using keywords.
+
+![Search Wireframe](images/searchwireframe.png)
+
+### Study Sheet Creator
+The Study Sheet Creator allows students to generate a study sheet from lecture slides.
+
+![Study Sheet Creator Wireframe](images/studysheetcreatorwireframe.png)
+
+### Content Viewer
+The Content Viewer lets users navigate the slides more easily.
+
+![Content Viewer Wireframe](images/contentviewerwireframe.png)
 
 ## Clickable Prototype
 
